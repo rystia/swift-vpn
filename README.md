@@ -26,9 +26,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/home.jpg" width="260" alt="Home screen">&nbsp;
-  <img src="assets/routing.jpg" width="260" alt="Split tunneling">&nbsp;
-  <img src="assets/traffic.jpg" width="260" alt="Traffic chart">
+  <img src="assets/home-en.jpg" width="260" alt="Home screen">&nbsp;
+  <img src="assets/routing-en.jpg" width="260" alt="Split tunneling">&nbsp;
+  <img src="assets/traffic-en.jpg" width="260" alt="Traffic chart">
 </p>
 
 ## Features
