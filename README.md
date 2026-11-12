@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vlasovrustam07-cpu/swift-vpn/releases/latest/download/Swift.dmg"><b>⬇︎ Download Swift for macOS</b></a>
+  <a href="https://github.com/rystia/swift-vpn/releases/latest/download/Swift.dmg"><b>⬇︎ Download Swift for macOS</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/vlasovrustam07-cpu/swift-vpn/releases">All releases</a>
+  <a href="https://github.com/rystia/swift-vpn/releases">All releases</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/vlasovrustam07-cpu/swift-vpn/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/vlasovrustam07-cpu/swift-vpn?label=release&color=34c759"></a>
+  <a href="https://github.com/rystia/swift-vpn/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/rystia/swift-vpn?label=release&color=34c759"></a>
   <img alt="macOS 26+" src="https://img.shields.io/badge/macOS-26%2B-black?logo=apple">
   <img alt="Apple Silicon" src="https://img.shields.io/badge/Apple%20Silicon-black">
-  <a href="https://github.com/vlasovrustam07-cpu/swift-vpn/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/vlasovrustam07-cpu/swift-vpn/total?label=downloads&color=555"></a>
+  <a href="https://github.com/rystia/swift-vpn/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/rystia/swift-vpn/total?label=downloads&color=555"></a>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 
 ## Install
 
-1. Download [Swift.dmg](https://github.com/vlasovrustam07-cpu/swift-vpn/releases/latest/download/Swift.dmg) and drag Swift to Applications.
+1. Download [Swift.dmg](https://github.com/rystia/swift-vpn/releases/latest/download/Swift.dmg) and drag Swift to Applications.
 2. On first launch macOS says it can't verify the developer. Open System Settings → Privacy & Security and click **Open Anyway**.
 3. Swift asks for your Mac password once to install a small system service. It creates the virtual network adapter that lets the VPN cover the whole Mac.
 4. Paste a key or a subscription link and click the bird.
