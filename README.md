@@ -32,17 +32,17 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/iphone-routing-dark.png">
-    <img src="assets/iphone-routing-light.png" width="236" alt="Split tunneling on iPhone">
+    <img src="assets/iphone-routing-light.png" width="200" alt="Split tunneling on iPhone">
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/mac-home-dark.png">
-    <img src="assets/mac-home-light.png" width="300" alt="Swift on Mac, connected">
+    <img src="assets/mac-home-light.png" width="219" alt="Swift on Mac, connected">
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/iphone-traffic-dark.png">
-    <img src="assets/iphone-traffic-light.png" width="236" alt="Traffic chart on iPhone">
+    <img src="assets/iphone-traffic-light.png" width="200" alt="Traffic chart on iPhone">
   </picture>
 </p>
 
