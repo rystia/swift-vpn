@@ -36,8 +36,8 @@
   </picture>
   &nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mac-home-dark.png">
-    <img src="assets/mac-home-light.png" width="219" alt="Swift on Mac, connected">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mac-dark.png">
+    <img src="assets/mac-light.png" width="219" alt="Swift on Mac, connected">
   </picture>
   &nbsp;&nbsp;
   <picture>
