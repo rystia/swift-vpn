@@ -51,7 +51,7 @@
 ## Features
 
 - **One tap.** Connect, disconnect and switch servers on the home screen. On Mac — also from the menu bar, on iPhone — from Control Center, the widget and Shortcuts.
-- **The fastest server.** The ⚡ button next to the server measures them all and connects to the fastest one.
+- **The fastest server.** The lightning button next to the server measures them all and connects to the fastest one.
 - **All the popular protocols.** VLESS (Reality, Vision, XHTTP, WebSocket, gRPC), VMess, Trojan, Shadowsocks, Hysteria 2, TUIC, WireGuard and SOCKS — powered by Xray and sing-box.
 - **Subscriptions and keys.** Paste a subscription link or server keys, or scan a QR code on iPhone. Subscriptions update by themselves, and Swift shows the remaining traffic and the expiry date when your provider reports them.
 - **Split tunneling.** Everything through the VPN, only the sites you pick, or everything except them. Sites, whole zones like .ru, IP addresses and subnets, plus ready-made sets: YouTube, Telegram, ChatGPT, WhatsApp, Signal, Gemini and more. On Mac — apps too.
@@ -60,7 +60,7 @@
 - **Fragmentation** helps get past blocking.
 - **Honest latency.** Each server is measured with a real request through it, not just the time to open a connection.
 - **Traffic.** Live speed, session volume and a usage chart.
-- **Made for Apple.** Light and dark themes, a light or dark app icon, search in Settings, English and Russian.
+- **Native look.** Light and dark themes, a light or dark app icon, search in Settings, English and Russian.
 - **On Mac** torrents can bypass the VPN, and `swiftvpn://connect`, `disconnect` and `toggle` links work from Shortcuts, Raycast or a hotkey.
 
 ## Install
